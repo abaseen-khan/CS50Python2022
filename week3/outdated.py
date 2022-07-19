@@ -13,5 +13,5 @@ months = [
     "December"
 ]
 
-# TODO the rest of this
+# TODO the rest
 # https://cs50.harvard.edu/python/2022/psets/3/outdated/
